@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="blog.xsl" type="text/xsl"?>
+
+<rss version="2.0">
+  <channel>
+    <title>Mi Blog Personal</title>
+    <link>https://www.miblogpersonal.com</link>
+    <description>Este es el feed RSS de Mi Blog Personal</description>
+    <language>es-es</language>
+    <pubDate>Sun, 19 May 2024 00:00:00</pubDate>
+    <lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    
+    <item>
+      <title>Xabi Alonso y la pócima perfecta: el dominio de Guardiola, la verticalidad de Mourinho y la libertad de Ancelotti</title>
+      <foto>deporte.jpg</foto>
+      <description>Jugar a las órdenes de Mourinho, Guardiola y Ancelotti no es fácil, significa que tienes que llegar a la élite absoluta del fútbol. Este último convertido ahora en nuevo diamante de los banquillos, invicto con el Bayer Leverkusen esta temporada, futurible para el banquillo del Madrid y favorito esta noche con el equipo alemán en la final de la Europa League ante el Atalanta, donde podrían completar el doblete tras la Bundesliga.
+        Un mix de éxito que ha resultado en la pócima del entrenador perfecto, acompañada por los detalles que ha aprendido de sus otros entrenadores.</description>
+      <author>Abraham P. Romero</author>
+      <pubDate>Wed, 22 May 2024 15:28:00</pubDate>
+      <guid>https://www.elmundo.es/deportes/futbol/2024/05/21/664cccaee4d4d8153b8b459a.html</guid>
+    </item>
+    
+    <item>
+      <title>Pogacar, generoso, se divierte y permite ganar al joven alemán Steinhauser</title>
+      <foto>deporte2.jpg</foto>
+      <description>El nuevo Caníbal es amable y generoso. Tadej Pogacar, tras firmar dos triunfos consecutivos en los Dolomitas, permitió a sus rivales participar en en el reparto de su suculenta presa en este Giro de los récords. El esloveno, en la doble subida al Passo Broncon, prefirió reservar energías y no desgastar a su equipo. El líder, saciado con cinco victorias en esta ronda que enfila su último tramo, permitió que el alemán George Steinhauser ganara la etapa y estrenara su palmarés profesional.
+        El chaval del EF Education se metió en la escapada buena de la jornada y supo aprovechar ese impulso para otorgar a su equipo el primer triunfo en la Corsa Rosa. Inmejorable debut para el joven corredor. </description>
+      <author>Pablo de la Calle
+        Pablo de la Calle</author>
+      <pubDate>Wed, 22 May 2024 17:53:00</pubDate>
+      <guid>https://www.elmundo.es/deportes/ciclismo/giro-de-italia/2024/05/22/664de9b2e4d4d88d788b45bb.html</guid>
+    </item>
+
+    <item>
+        <title>¿Por qué Verstappen ya no parece intocable?: una victoria por 725 milésimas, el poderío de McLaren y un "casi acabo en la grada"</title>
+        <foto>deporte3.jpg</foto>
+        <description>Al margen de la escalada geopolítica que un asalto sobre Taipei podría suponer, la lucha por la isla se ha convertido en un problema de primer orden para la economía mundial debido a su dominio de la industria de los semiconductores. Principalmente a través de su empresa insignia, TSMC, la pequeña nación asiática controla esta industria clave para la transición energética, la inteligencia artificial y todo tipo de productos electrónicos clave para el mundo actual. Es por ello que ASML y TSMC, la empresa, han preparado un plan por si el peor de los escenarios ocurre y las fuerzas militares chinas empiezan a tomar posesión de la sensible industria taiwanesa o si se produce un ataque. Los equipos de litografía extrema son un sistema vanguardista en la industria que para muchos expertos supone el futuro del sector.</description>
+        <author>elEconomista.es (Autor)</author>
+        <pubDate>Mon, 20 May 2024 00:37:00</pubDate>
+        <guid>https://www.elmundo.es/deportes/formula-1/2024/05/20/664a4665fdddffa6878b4574.html</guid>
+      </item>
+
+  </channel>
+</rss>

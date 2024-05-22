@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="blog.xsl" type="text/xsl"?>
+
+<rss version="2.0">
+  <channel>
+    <title>Mi Blog Personal</title>
+    <link>https://www.miblogpersonal.com</link>
+    <description>Este es el feed RSS de Mi Blog Personal</description>
+    <language>es-es</language>
+    <pubDate>Sun, 19 May 2024 00:00:00</pubDate>
+    <lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    
+    <item>
+      <title>La IA, una herramienta que puede ayudar a prevenir futuros desplazamientos forzados</title>
+      <foto>tecnologia.jpg</foto>
+      <description>La inteligencia artificial se ha convertido en una herramienta con mucho potencial para predecir y prevenir desplazamientos forzados derivados de crisis humanitarias, según la ONG Consejo Danés para los Refugiados , que proporciona asistencia a refugiados y desplazados internos en más de 40 países.
+        Para estudiar esta aplicación de la IA, la ONG colabora desde 2017 con la tecnológica IBM en 'Foresight', un modelo de aprendizaje automático pionero en su tipo y que puede estimar el número de personas desplazadas en un país con una antelación de uno a tres años.
+        «Pudimos proporcionar ayuda en efectivo y agua por adelantado a las comunidades afectadas para garantizar que fueran capaces de hacer frente a la situación de sequía, evitar la pérdida de su ganado y activos y su desplazamiento», aseguró Slente.</description>
+      <author>Enrique Alpañés</author>
+      <pubDate>Mon, 20 May 2024 12:51:00</pubDate>
+      <guid>https://www.elmundo.es/tecnologia/2024/05/20/664b2acafdddffc4218b4580.html</guid>
+    </item>
+    
+    <item>
+      <title>OpenAI antepone los productos llamativos a la seguridad, asegura un extrabajador </title>
+      <foto>tecnologia1.jpg</foto>
+      <description>En un largo hilo de X, el responsable de seguridad de la empresa creadora de ChatGPT ha dicho que esta prioriza la creación de productos nuevos y llamativos a la seguridad. Leike era codirector del departamento de superalineación, junto a Ilya Sutskever, quien abandonó la empresa hace unos días. Todo el mundo tecnológico estaba mirando a la empresa de San Francisco, pero por otros motivos. Durante la presentación, a muchos les llamó la atención la capacidad del asistente de flirtear con los presentadores del evento y las referencias que hizo el consejero delegado de la empresa, Sam Altman, a la película Her, en la que un hombre se enamora de un chat conversacional.</description>
+      <author>Enrique Alpañés (Autor)</author>
+      <pubDate>Sat, 18 May 2024 19:05:00</pubDate>
+      <guid>https://elpais.com/tecnologia/2024-05-18/openai-antepone-los-productos-llamativos-a-la-seguridad-asegura-un-extrabajador.html</guid>
+    </item>
+
+    <item>
+        <title>El plan de ASML y TSMC para evitar que China se haga con la joya de la corona de los chips invadiendo Taiwán</title>
+        <foto>tecnologia2.jpg</foto>
+        <description>Al margen de la escalada geopolítica que un asalto sobre Taipei podría suponer, la lucha por la isla se ha convertido en un problema de primer orden para la economía mundial debido a su dominio de la industria de los semiconductores. Principalmente a través de su empresa insignia, TSMC, la pequeña nación asiática controla esta industria clave para la transición energética, la inteligencia artificial y todo tipo de productos electrónicos clave para el mundo actual. Es por ello que ASML y TSMC, la empresa, han preparado un plan por si el peor de los escenarios ocurre y las fuerzas militares chinas empiezan a tomar posesión de la sensible industria taiwanesa o si se produce un ataque. Los equipos de litografía extrema son un sistema vanguardista en la industria que para muchos expertos supone el futuro del sector.</description>
+        <author>elEconomista.es (Autor)</author>
+        <pubDate>Thu, 21 May 2024 13:28:00</pubDate>
+        <guid>https://www.eleconomista.es/tecnologia/noticias/12825320/05/24/el-plan-de-asml-y-tsmc-para-evitar-que-china-se-haga-con-la-joya-de-la-corona-de-los-chips-invadiendo-taiwan.html</guid>
+      </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="blog.xsl" type="text/xsl"?>
+
+<rss version="2.0">
+  <channel>
+    <title>Mi Blog Personal</title>
+    <link>https://www.miblogpersonal.com</link>
+    <description>Este es el feed RSS de Mi Blog Personal</description>
+    <language>es-es</language>
+    <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+    <lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    
+    <item_tecno>
+      <title>Tecnologia</title>
+      <foto>https://www.zonamovilidad.es/fotos/2/Capturadepantalla2018-05-02alas11.19.52.jpg</foto>
+      <description>Este es un resumen del primer artículo de mi blog.</description>
+      <author>autor@miblogpersonal.com (Autor)</author>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.miblogpersonal.com/primer-articulo</guid>
+    </item_tecno>
+    
+    <item_deporte>
+      <title>Deporte</title>
+      <foto>https://previews.123rf.com/images/angelp/angelp1612/angelp161200004/69668122-icono-de-pelotas-de-deporte-fondo-naranja-con-negro-ilustraci%C3%B3n-vectorial.jpg</foto>
+      <description>Este es un resumen del segundo artículo de mi blog.</description>
+      <author>autor@miblogpersonal.com (Autor)</author>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.miblogpersonal.com/segundo-articulo</guid>
+    </item_deporte>
+
+    <item_noticia>
+        <title>Noticias</title>
+        <foto>https://png.pngtree.com/template/20221209/ourmid/pngtree-breaking-news-background-image_1924029.jpg</foto>
+        <description>Este es un resumen del segundo artículo de mi blog.</description>
+        <author>autor@miblogpersonal.com (Autor)</author>
+        <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+        <guid>https://www.miblogpersonal.com/segundo-articulo</guid>
+      </item_noticia>
+
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="blog.xsl" type="text/xsl"?>
+
+<rss version="2.0">
+  <channel>
+    <title>Mi Blog Personal</title>
+    <link>https://www.miblogpersonal.com</link>
+    <description>Este es el feed RSS de Mi Blog Personal</description>
+    <language>es-es</language>
+    <pubDate>Sun, 19 May 2024 00:00:00</pubDate>
+    <lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    
+    <item>
+      <title>Israel anuncia "consecuencias graves" por el reconocimiento del Estado palestino y llama a consultas a su embajadora</title>
+      <foto>noticia.jpg</foto>
+      <description>El Ministerio de Asuntos Exteriores de Israel ha advertido de «consecuencias graves» a España, Irlanda y Noruega por el reconocimiento de Palestina como Estado, que estos países formalizarán el próximo 28 de mayo. De momento, el ministro Israel Katz ha llamado a consultas a sus embajadores en Madrid, Dublín y Oslo por considerar que la decisión «socava su soberanía y pone en peligro su seguridad». El primer ministro israelí, Benjamín Netanyahu, ha mostrado su rechazo mediante un vídeo en sus redes sociales, en el que califica de «premio al terrorismo» el anuncio de los tres países europeos. Además, el líder de Israel ha afirmado que no se dejarán intimidar en su misión «por ganar la guerra de Gaza».
+        Netanyahu cree que el país resultante de tal reconocimiento «sería un Estado terrorista» que «intentaría llevar a cabo la masacre del 7 de octubre una y otra vez». </description>
+      <author>RTVE.es / AGENCIAS</author>
+      <pubDate>Wed, 22 May 2024 17:50:00</pubDate>
+      <guid>https://www.rtve.es/noticias/20240522/israel-consecuencias-graves-reconocimiento-palestina/16114118.shtml</guid>
+    </item>
+    
+    <item>
+      <title>Ser niño en Gaza, un objetivo de guerra sin apenas atención sanitaria: "Es un cementerio y una carnicería"</title>
+      <foto>noticia2.jpg</foto>
+      <description>El presidente del Gobierno, Pedro Sánchez, ha anunciado este miércoles que España acogerá a una treintena de niños gazatíes enfermos de cáncer o con dolencias severas. «Atendiendo al llamamiento de la Organización Mundial de la Salud y en coordinación con la Unión Europea, en las próximas semanas España acogerá a una treintena de niños gazatíes con cáncer y traumatismos severos para que tengan un tratamiento seguro», ha señalado. El Fondo de las Naciones Unidas para la Infancia estima que el 90% de los niños menores de cinco años padecen una o más enfermedades infecciosas y casi 8.000 niños menores de dos años ya sufren desnutrición aguda. La Franja se ha convertido en «un cementerio y una carnicería de niños», señala el director ejecutivo del fondo de Naciones Unidas, Chema Vera.
+        En lo que va de guerra, casi 15.000 menores han perdido la vida bajo las bombas.</description>
+      <author>Enrique Alpañés (Autor)</author>
+      <pubDate>Wed, 22 May 2024 15:26:00</pubDate>
+      <guid>https://www.rtve.es/noticias/20240522/infancia-gaza-objetivo-guerra-sistema-salud-diezmado/16114123.shtml</guid>
+    </item>
+
+    <item>
+        <title>Sorrentino se ensimisma con la mujer y Nápoles en Parthenope: "Vida y trauma son sinónimos"</title>
+        <foto>noticia3.jpg</foto>
+        <description>" "Atendiendo al llamamiento de la Organización Mundial de la Salud y en coordinación con la Unión Paolo Sorrentino ha verbalizado muchas veces su incapacidad para escribir personajes femeninos porque las mujeres le parecen, básicamente, misterio y belleza. Sorrentino vuelve a Cannes -que suele acoger su cine y en 2009 ganó el premio del jurado con Il Divo- y también a Nápoles. ¿Y qué es la antropología?, se preguntan recurrentemente los personajes.</description>
+        <author>elEconomista.es (Autor)</author>
+        <pubDate>Wed, 22 May 2024 14:42:00</pubDate>
+        <guid>https://www.rtve.es/noticias/20240522/paolo-sorrentino-festival-cannes-parthenope/16114525.shtml</guid>
+      </item>
+
+  </channel>
+</rss>
